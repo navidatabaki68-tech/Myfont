@@ -1,0 +1,11 @@
+{
+  "name": "myfont - طراحی استوری و پست آژانس مسافرتی",
+  "short_name": "myfont",
+  "description": "اپلیکیشن اختصاصی طراحی متن و کادر تور مسافرتی برای اینستاگرام",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "dir": "rtl",
+  "lang": "fa"
+}
